@@ -1,4 +1,4 @@
-![at&t logo.png](at&t logo.png)
+![at&t_logo.png](at&t_logo.png)
 
 # Orange SPAM detector
 
